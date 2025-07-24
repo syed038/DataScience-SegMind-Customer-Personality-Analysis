@@ -1,4 +1,4 @@
-# Customer Personality Analysis & Targeted Marketing - DATA SCIENCE Project. 
+# SegMind Customer Personality Analysis & Targeted Marketing - DATA SCIENCE Project. 
 
 This project performs customer segmentation using KMeans clustering based on demographics and spending behavior. It helps businesses target the right customers and personalize marketing campaigns.
 
