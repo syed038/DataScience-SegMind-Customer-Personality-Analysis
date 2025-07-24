@@ -1,10 +1,23 @@
-# Customer Personality Analysis & Targeted Marketing (Clustering Project)
+# Customer Personality Analysis & Targeted Marketing - DATA SCIENCE Project. 
 
 This project performs customer segmentation using KMeans clustering based on demographics and spending behavior. It helps businesses target the right customers and personalize marketing campaigns.
 
 📊 Dataset
 - Source: [Kaggle - Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 - Contains data on 2,200+ customers with features like Age, Income, Marital Status, Product Spending, and more.
+
+
+(Important)💡 How to Set Up on Your Desktop (Mac or Windows):
+
+1. Create a folder on your Desktop named:
+
+2. Move these 3 files into it:
+- `customer_analysis.ipynb` (your notebook)
+- `marketing_campaign.csv` (your dataset)
+
+3. Open your Jupyter Notebook (e.g., using Anaconda or terminal):
+- Navigate to the folder
+- Open `customer_analysis.ipynb` and run the project
 
 💡 What I Did
 - Cleaned and preprocessed the data
